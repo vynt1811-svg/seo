@@ -1,0 +1,224 @@
+{
+  "majorDimension": "ROWS",
+  "range": "Report_KPI!A1:J80",
+  "values": [
+    [
+      "📊 REPORT KPI RANK APPLE - NGÀY ĐO 07/08/2026",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "⭐ Trạng thái KPI"
+    ],
+    [
+      "RANK_CUSTOM",
+      "SL Keyword",
+      "% Keyword",
+      "VS",
+      "% VS",
+      "",
+      "Ngày đo rank gần nhất",
+      "07/08/2026"
+    ],
+    [
+      "1.0-2.0",
+      "15",
+      "71.43%",
+      "142,090",
+      "45.63%",
+      "",
+      "% KW Top 1-2",
+      "71.43%"
+    ],
+    [
+      "2.1-3.0",
+      "5",
+      "23.81%",
+      "132,300",
+      "42.49%",
+      "",
+      "Mục tiêu KPI",
+      "95.00%"
+    ],
+    [
+      "3.1-4.0",
+      "1",
+      "4.76%",
+      "37,000",
+      "11.88%",
+      "",
+      "KW cần thêm",
+      "5 KW"
+    ],
+    [
+      "4.1-10.0",
+      "0",
+      "0.00%",
+      "0",
+      "0.00%",
+      "",
+      "Kết luận",
+      "🚨 Chưa đạt KPI"
+    ],
+    [
+      ">10.0",
+      "0",
+      "0.00%",
+      "0",
+      "0.00%",
+      "",
+      "Phạm vi",
+      "Đánh OnTOP + KW Chính"
+    ],
+    [
+      "No Rank",
+      "0",
+      "0.00%",
+      "0",
+      "0.00%",
+      "",
+      "Ngày đo kề trước",
+      "01/08/2026"
+    ],
+    [
+      "Grand Total",
+      "21",
+      "100.00%",
+      "311,390",
+      "100.00%"
+    ],
+    [],
+    [],
+    [
+      "📈 SO SÁNH RANK VỚI LẦN ĐO KỀ TRƯỚC"
+    ],
+    [
+      "RANK_CUSTOM",
+      "SL hiện tại",
+      "SL kề trước",
+      "Δ SL",
+      "VS hiện tại",
+      "VS kề trước",
+      "Δ VS",
+      "% hiện tại",
+      "% kề trước"
+    ],
+    [
+      "1.0-2.0",
+      "15",
+      "7",
+      "8",
+      "142,090",
+      "149,700",
+      "-7,610",
+      "71.43%",
+      "41.18%"
+    ],
+    [
+      "2.1-3.0",
+      "5",
+      "9",
+      "-4",
+      "132,300",
+      "306,200",
+      "-173,900",
+      "23.81%",
+      "52.94%"
+    ],
+    [
+      "3.1-4.0",
+      "1",
+      "1",
+      "0",
+      "37,000",
+      "121,000",
+      "-84,000",
+      "4.76%",
+      "5.88%"
+    ],
+    [
+      "4.1-10.0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0.00%",
+      "0.00%"
+    ],
+    [
+      ">10.0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0.00%",
+      "0.00%"
+    ],
+    [
+      "No Rank",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0.00%",
+      "0.00%"
+    ],
+    [
+      "Grand Total",
+      "21",
+      "17",
+      "4",
+      "311,390",
+      "576,900",
+      "-265,510",
+      "100.00%",
+      "100.00%"
+    ],
+    [],
+    [
+      "🧾 REPORT ĐẦU VIỆC ĐÃ LÀM"
+    ],
+    [
+      "Đầu việc",
+      "Mô tả chi tiết",
+      "Số lượng"
+    ],
+    [
+      "Báo PR",
+      "Báo PR hoặc chèn link báo đã index",
+      "17"
+    ],
+    [
+      "Title/Desc",
+      "Tối ưu Title/Desc đúng keyword focus, đúng intent, không trùng lặp + Khai báo và submit sau khi update",
+      "15"
+    ],
+    [
+      "Tìm kiếm nhiều",
+      "Chèn link nội bộ từ Trang chủ TGDĐ/ĐMX khu vực tìm kiếm nhiều",
+      "9"
+    ],
+    [
+      "OnPage Hệ tin (Hỏi đáp)",
+      "Triển khai theo checkbox plan: OnPage Hệ tin (Hỏi đáp)",
+      "7"
+    ],
+    [
+      "Infobox/ND SP",
+      "Tối ưu content cho infobox (bài viết SEO) của trang Ngành hàng, Ngành hàng + Hãng, Dòng Filter, Filter ",
+      "4"
+    ],
+    [
+      "TopPage Hỏi Đáp",
+      "Triển khai theo checkbox plan: TopPage Hỏi Đáp",
+      "1"
+    ]
+  ]
+}
